@@ -3,7 +3,6 @@ Tecnicatura Universitaria en Programación
 📍 Universidad Tecnológica Nacional
 
 ✨ Estudiantes
-- Nombre: JOAQUIN EDGAR ESCOBAR
 - Nombre: GISELLE CHAUMONT MOHR
 - Nombre: MATHIAS JESUS FLOR
 - Nombre: STEFAN DIOS MAYARIN
