@@ -19,9 +19,7 @@ Comisión: M2025-7
 
 
 ## Links importantes
-- [Presentación completa]()
-  
-- [Video completo]()
+- [Video completo](https://youtu.be/LbDxpbnsQQ8)
 
 
 
